@@ -11,6 +11,8 @@ Congratulations on beginning your career in cyber security! On this github you w
 To get started you will first need the textbook (we use Practical Malware Analysis by Honig and Sikorski). 
 The pdf version can be found on the above github in the resources folder.
 
+***BEFORE WE DELVE TOO DEEP, DO NOT OPEN LAB ZIP FILES UNTIL INSIDE YOUR VIRTUALMACHINE. THEY CONTAIN MALWARE FOR THE PURPOSE OF STUDY BUT HAVE THE POTENTIAL TO INFECT YOUR COMPUTER***
+
 Next you will need Kali Linux. For those who are brand new, Linux is another operating system like Windows or
 MacOS. Kali is a distribution (or "flavor") of linux that comes with a multitude of pre-installed cyber security
 tools.
