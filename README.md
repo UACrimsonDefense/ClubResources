@@ -1,6 +1,6 @@
 # Crimson Defense - UA Cyber Security Club
 Welcome to Crimson Defense! Here you will find all the resources and information necessary to start your
-learning in the infoSec realm!
+learning in the infoSec realm! (BEGINNER'S GUIDE BELOW THE LOGO)
 
 <p align="center">
 <img width="500px" src="/images/318feea7cf1545feb4dcfd711f64b263.png" alt="Logo"/>
