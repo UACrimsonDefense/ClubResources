@@ -3,7 +3,7 @@ Welcome to Crimson Defense! Here you will find all the resources and information
 learning in the infoSec realm!
 
 <p align="center">
-<img width="700px" src="/images/318feea7cf1545feb4dcfd711f64b263.png" alt="Logo"/>
+<img width="500px" src="/images/318feea7cf1545feb4dcfd711f64b263.png" alt="Logo"/>
 </p>
 
 ## Beginner's Guide
@@ -21,7 +21,7 @@ After Kali has been downloaded, you need virtualBox. VirtualBox is the software 
 Virtual Machines are essentially operating systems that you can run within a window of your current OS. That allows us
 to use important tools without dual booting computers, experiment with live malware without putting ourselves at risk,
 and do plenty of other interesting things like create computer networks! 
---The virualBox download can be found at virtualBox.com/Downloads. Just select whichever operating system you are using
+--The virualBox download can be found at virtualBox.org/wiki/Downloads. Just select whichever operating system you are using
 to download.
 
 Please follow the directions for setting up VM's file found in the resources folder as well.
