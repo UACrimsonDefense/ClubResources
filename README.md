@@ -2,6 +2,10 @@
 Welcome to Crimson Defense! Here you will find all the resources and information necessary to start your
 learning in the infoSec realm!
 
+<p align="center">
+<img width="700px" src="/images/318feea7cf1545feb4dcfd711f64b263.png" alt="Logo"/>
+</p>
+
 ## Beginner's Guide
 Congratulations on beginning your career in cyber security! On this github you will find a schedule file.
 To get started you will first need the textbook (we use Practical Malware Analysis by Honig and Sikorski). 
