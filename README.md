@@ -1,47 +1,52 @@
 # Crimson Defense - UA Cyber Security Club
 Welcome to Crimson Defense! Here you will find all the resources and information necessary to start your
-learning in the infoSec realm! (BEGINNER'S GUIDE BELOW THE LOGO)
+learning in the infoSec realm! ***Beginner's Guide Below Logo***
 
 <p align="center">
 <img width="500px" src="/images/318feea7cf1545feb4dcfd711f64b263.png" alt="Logo"/>
 </p>
 
 ## Beginner's Guide
-Congratulations on beginning your career in cyber security! On this github you will find a schedule file.
+Congratulations on beginning your career in cyber security! On this github you will find a schedule file. Check 
+that out to see what material you'll be learning, and what you'll need to catch up on.
+
+***BEFORE WE DELVE TOO DEEP, DO NOT OPEN LAB ZIP FILES UNTIL INSIDE YOUR ~SECURE~ VIRTUALMACHINE. THEY CONTAIN MALWARE FOR THE PURPOSE OF STUDY BUT HAVE THE POTENTIAL TO INFECT YOUR COMPUTER AND/OR NETWORK***
+
 To get started you will first need the textbook (we use Practical Malware Analysis by Honig and Sikorski). 
 The pdf version can be found on the above github in the resources folder.
 
-***BEFORE WE DELVE TOO DEEP, DO NOT OPEN LAB ZIP FILES UNTIL INSIDE YOUR VIRTUALMACHINE. THEY CONTAIN MALWARE FOR THE PURPOSE OF STUDY BUT HAVE THE POTENTIAL TO INFECT YOUR COMPUTER***
-
 Next you will need Kali Linux. For those who are brand new, Linux is another operating system like Windows or
 MacOS. Kali is a distribution (or "flavor") of linux that comes with a multitude of pre-installed cyber security
-tools.
---The file you need to download is known as an ISO (because it's a .iso or disk image file). This file can also be
+tools. The file you need to download is known as an ISO (because it's a .iso or disk image file). This file can also be
 found in the resources folder.
 
 After Kali has been downloaded, you need virtualBox. VirtualBox is the software that allows us to run virtual machines.
 Virtual Machines are essentially operating systems that you can run within a window of your current OS. That allows us
 to use important tools without dual booting computers, experiment with live malware without putting ourselves at risk,
-and do plenty of other interesting things like create computer networks! 
---The virualBox download can be found at virtualBox.org/wiki/Downloads. Just select whichever operating system you are using
+and do plenty of other interesting things like create computer networks! The virtualBox download can be found at virtualBox.org/wiki/Downloads. Just select whichever operating system you are using
 to download.
 
 Please follow the directions for setting up VM's file found in the resources folder as well.
 
-The next step will be to read the first 4 chapters (that is, chapters 0-3), and trying your best to understand that material.
-We will be here to help, but you should read through, work on the coordinating labs (found in Labs folder), and do your best
+The next step will be to read the first few chapters (at least chapters 1 and 2), and trying your best to understand that material.
+We will be here to help, but you should read through, work on the coordinating labs (found in Labs folder & in book), and do your best
 to delve into the material.
 
 Welcome! We're glad you're here!
+
 
 ***Please Note***
 This repository contains the entirety of a cyber security class developed at Rennsselaer Polytechnic Institute.
 All credit to the students and faculty at that university; links, information and references at the end of this
 readme.
 
-
-*** RPI CREDIT BELOW ***
-************************
+*************************************************************************************************
+*************************************************************************************************
+*************************************************************************************************
+***                                    RPI CREDIT BELOW                                       ***
+*************************************************************************************************
+*************************************************************************************************
+*************************************************************************************************
 
 # Malware Analysis - CSCI 4976
 This repository contains the materials as developed and used by [RPISEC](http://rpis.ec) to
