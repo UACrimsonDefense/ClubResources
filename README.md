@@ -28,7 +28,7 @@ to download.
 
 Please follow the directions for setting up VM's file found in the resources folder as well.
 
-The next step will be to read the first few chapters (at least chapters 1 and 2), and trying your best to understand that material.
+The next step will be to read the first few chapters (at least chapters 1 and 2), and try your best to understand that material.
 We will be here to help, but you should read through, work on the coordinating labs (found in Labs folder & in book), and do your best
 to delve into the material.
 
