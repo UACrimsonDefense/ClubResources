@@ -3,34 +3,33 @@ Welcome to Crimson Defense! Here you will find all the resources and information
 learning in the infoSec realm! ***Beginner's Guide Below Logo***
 
 <p align="center">
-<img width="500px" src="/images/318feea7cf1545feb4dcfd711f64b263.png" alt="Logo"/>
+<img width="350px" src="/images/318feea7cf1545feb4dcfd711f64b263.png" alt="Logo"/>
 </p>
 
 ## Beginner's Guide
-Congratulations on beginning your career in cyber security! On this github you will find a schedule file. Check 
-that out to see what material you'll be learning, and what you'll need to catch up on.
+Congratulations on beginning your career in cyber security!
 
-***BEFORE WE DELVE TOO DEEP, DO NOT OPEN LAB ZIP FILES UNTIL INSIDE YOUR ~SECURE~ VIRTUALMACHINE. THEY CONTAIN MALWARE FOR THE PURPOSE OF STUDY BUT HAVE THE POTENTIAL TO INFECT YOUR COMPUTER AND/OR NETWORK***
+***BEFORE WE DELVE TOO DEEP, DO NOT OPEN LAB ZIP FILES UNTIL INSIDE YOUR SECURE VIRTUAL MACHINE. THEY CONTAIN MALWARE FOR THE PURPOSE OF STUDY BUT HAVE THE POTENTIAL TO INFECT YOUR COMPUTER AND/OR NETWORK***
 
 To get started you will first need the textbook (we use Practical Malware Analysis by Honig and Sikorski). 
-The pdf version can be found on the above github in the resources folder.
+The pdf version can be found on this github in the resources folder. Note that we only use the textbook for some topics, as other information like denial of service attacks and new ransomware may not be covered by the book.
 
-Next you will need Kali Linux. For those who are brand new, Linux is another operating system like Windows or
-MacOS. Kali is a distribution (or "flavor") of linux that comes with a multitude of pre-installed cyber security
-tools. The file you need to download is known as an ISO (because it's a .iso or disk image file). This file can also be
-found in the resources folder.
-
-After Kali has been downloaded, you need virtualBox. VirtualBox is the software that allows us to run virtual machines.
-Virtual Machines are essentially operating systems that you can run within a window of your current OS. That allows us
+After you have the book, you need VirtualBox. VirtualBox is the software that allows us to run virtual machines.
+Virtual machines are essentially operating systems that you can run within a window of your current OS. That allows us
 to use important tools without dual booting computers, experiment with live malware without putting ourselves at risk,
-and do plenty of other interesting things like create computer networks! The virtualBox download can be found at virtualBox.org/wiki/Downloads. Just select whichever operating system you are using
+and do plenty of other interesting things like create virtual internal computer networks! The VirtualBox download can be found at virtualBox.org/wiki/Downloads. Just select whichever operating system you are using
 to download.
 
-Please follow the directions for setting up VM's file found in the resources folder as well.
+Next, you will need Kali Linux. For those who are brand new, Linux is another operating system like Windows or
+MacOS. Kali is a distribution (aka "flavor" or "distro") of linux that comes with a multitude of pre-installed cyber security
+tools. We have pre-packaged a kali linux virtual machine on our Google Drive.
 
-The next step will be to read the first few chapters (at least chapters 1 and 2), and trying your best to understand that material.
-We will be here to help, but you should read through, work on the coordinating labs (found in Labs folder & in book), and do your best
-to delve into the material.
+You will also need our Windows XP virtual machine. That is also hosted on our Google Drive.
+
+To launch either of these virtual machines, simply download, then double click. VirtualBox should handle the rest.
+
+The next step will be to read the first few chapters (at least chapters 1 and 2). Try to really dig in and see if you can understand the basics of malware analysis, it's exciting stuff!
+We will be here to help, but read through as much as you can to gain a foothold of understanding.
 
 Welcome! We're glad you're here!
 
