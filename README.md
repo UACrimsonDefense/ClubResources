@@ -24,7 +24,11 @@ Next, you will need Kali Linux. For those who are brand new, Linux is another op
 MacOS. Kali is a distribution (aka "flavor" or "distro") of linux that comes with a multitude of pre-installed cyber security
 tools. We have pre-packaged a kali linux virtual machine on our Google Drive.
 
+The link to the Google Drive can be found in the Resources directory of this GitHub page.
+
 You will also need our Windows XP virtual machine. That is also hosted on our Google Drive.
+
+Both of these files have the ".ova" extension. Be sure that you are not downloading the file with a ".iso" extension. Simply download "kali.ova" and "Windows_Malware_Target.ova" from the provided link.
 
 To launch either of these virtual machines, simply download, then double click. VirtualBox should handle the rest.
 
